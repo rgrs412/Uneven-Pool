@@ -16,8 +16,9 @@ obstacles such as blocks, ramps, etc. It is similar to Golf in that you knock a 
 ![Level Selection](/Images/levels.png)
 
 ### In-Game Tools
+#### Crosshair
 ![Crosshair](/Images/crosshair.png)
-
+#### Top-down view & Direction Indicator
 ![Top-down view & Direction Indicator](/Images/top-down-view.png)
 
 ### Level 1
