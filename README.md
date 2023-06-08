@@ -18,19 +18,19 @@ obstacles such as blocks, ramps, etc. It is similar to Golf in that you knock a 
 ### In-Game Tools
 ![Crosshair](/Images/crosshair.png)
 
-
+![Top-down view & Direction Indicator](/Images/top-down-view.png)
 
 ### Level 1
-![Level 1](/Images/level 1.png)
+![Level 1](/Images/level-1.png)
 
 ### Level 2
-![Level 2](/Images/level 2.png)
+![Level 2](/Images/level-2.png)
 
 ### Level 3
-![Level 3](/Images/level 3.png)
+![Level 3](/Images/level-3.png)
 
 ### Level 4
-![Level 4](/Images/level 4.png)
+![Level 4](/Images/level-4.png)
 
 ### Win Screen
-![Win Screen](/Images/win screen.png)
+![Win Screen](/Images/win-screen.png)
